@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/BooksApp.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/BooksApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/BooksApp.Business.csproj",
+        "projectName": "BooksApp.Business",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/BooksApp.Business.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/BooksApp.Data.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/BooksApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/BooksApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/BooksApp.Data.csproj",
+        "projectName": "BooksApp.Data",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/BooksApp.Data.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/BooksApp.Entity.csproj": {
+                "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/BooksApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/BooksApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/BooksApp.Entity.csproj",
+        "projectName": "BooksApp.Entity",
+        "projectPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/BooksApp.Entity.csproj",
+        "packagesPath": "/Users/ibrahimardaozbek/.nuget/packages/",
+        "outputPath": "/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimardaozbek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

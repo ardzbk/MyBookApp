@@ -1,0 +1,245 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BooksApp.MVC
+build_property.RootNamespace = BooksApp.MVC
+build_property.ProjectDir = /Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Authors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9ycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Authors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9ycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Authors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXV0aG9ycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQm9va3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Roles/RoleAssignment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUm9sZXMvUm9sZUFzc2lnbm1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_BookImagesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Cb29rSW1hZ2VzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_DataTablesScriptsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19EYXRhVGFibGVzU2NyaXB0c1BhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_DataTablesStylesPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19EYXRhVGFibGVzU3R5bGVzUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9NYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Home/AuthorDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BdXRob3JEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Home/BookDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Cb29rRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2F0ZWdvcmllcy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/OldVersion/_BookImagesSliderPartial - Kopya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL09sZFZlcnNpb24vX0Jvb2tJbWFnZXNTbGlkZXJQYXJ0aWFsIC0gS29weWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/OldVersion/_BookPartial - Kopya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL09sZFZlcnNpb24vX0Jvb2tQYXJ0aWFsIC0gS29weWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/OldVersion/_Layout - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL09sZFZlcnNpb24vX0xheW91dCAtIENvcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/OldVersion/_MenuPartial - Kopya.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL09sZFZlcnNpb24vX01lbnVQYXJ0aWFsIC0gS29weWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_BookImagesSliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Cb29rSW1hZ2VzU2xpZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_BookPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Cb29rUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_BooksPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Cb29rc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_Layout_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_NoRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob1JlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_ServicesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TZXJ2aWNlc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_SliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TbGlkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_TopMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ub3BNZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y5an1avmqw
+
+[/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ckkvcuzr6t

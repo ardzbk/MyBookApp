@@ -1,0 +1,17 @@
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Business.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Data.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Entity.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Data.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/bin/Debug/net7.0/BooksApp.Entity.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.csproj.CopyComplete
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/refint/BooksApp.Business.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/BooksApp.Business.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Business/obj/Debug/net7.0/ref/BooksApp.Business.dll
