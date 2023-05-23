@@ -1,0 +1,50 @@
+﻿@model AuthorModel
+
+<div class="row p-4">
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="~/images/authors/@Model.ImageUrl" />
+            </div>
+            <div class="col-md-8">
+                <h1 class="display-6 fs-5 fw-normal">@Model.Name</h1>
+                <div>
+                    <span class="text-danger fs-6">Doğum Tarihi:</span><span class="fs-6"> @Model.BirthDate</span>
+                </div>
+                <div>
+                    <span class="text-danger fs-6">Cinsiyeti:</span><span class="fs-6"> @(Model.Gender == "E" ? "Erkek" : "Kadın")</span>
+                </div>
+                <h1 class="display-6 fs-5 fw-normal mt-3">Hakkında</h1>
+                <p class="fs-6">@Model.About</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <h6 class="display-6 fs-5 fw-normal">Yazarın Diğer Kitapları</h6>
+        <div class="fs-6">
+            @foreach (var book in Model.Books)
+            {
+                <a
+                    asp-area=""
+                    asp-controller="Home"
+                    asp-action="BookDetails"
+                    asp-route-url="@book.Url"
+                    class="text-decoration-none">
+                    <div class="card text-center mb-2">
+                        <div class="card-header text-bg-warning">
+                            @book.Name
+                        </div>
+                        <div class="card-body p-2">
+                            <h6 class="card-title text-black">@(book.EditionNumber).Baskı</h6>
+                            <p class="card-text text-black">@(book.Summary.Substring(0, 23))...</p>
+                        </div>
+                        <div class="card-footer text-body-secondary p-1">
+                            @book.EditionYear
+                        </div>
+                    </div>
+                </a>
+
+            }
+        </div>
+    </div>
+</div>

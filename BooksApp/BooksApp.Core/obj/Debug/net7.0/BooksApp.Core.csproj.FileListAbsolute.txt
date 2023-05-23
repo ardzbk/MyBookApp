@@ -1,0 +1,12 @@
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/bin/Debug/net7.0/BooksApp.Core.deps.json
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/bin/Debug/net7.0/BooksApp.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/bin/Debug/net7.0/BooksApp.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.csproj.AssemblyReference.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.AssemblyInfoInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.AssemblyInfo.cs
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/refint/BooksApp.Core.dll
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/BooksApp.Core.pdb
+/Users/ibrahimardaozbek/Documents/GitHub/ERP-7/Week-15/25-04-2023/BooksApp/BooksApp.Core/obj/Debug/net7.0/ref/BooksApp.Core.dll
